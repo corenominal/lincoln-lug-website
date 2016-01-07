@@ -16,6 +16,4 @@ $(document).ready(function()
 		var logo_img_ext = 'svg'
 	}
 
-	$('body').snowfall({flakeCount : 25, image :"http://lincoln.lug.org.uk/img/christmas-snowflake.png", minSize: 10, maxSize:32});
-
 });
