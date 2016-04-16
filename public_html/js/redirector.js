@@ -16,7 +16,7 @@ $(document).ready(function()
 		var logo_img_ext = 'svg'
 	}
 
-	var c = 10;
+	var c = 20;
 	var s = '';
 	setInterval( function()
 	{
